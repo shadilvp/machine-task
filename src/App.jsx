@@ -6,10 +6,10 @@ function App() {
 
   return (
     <>
-    <ContextPage>
-    <Color/>
-    <Display/>
-    </ContextPage>
+      <ContextPage>
+        <Color />
+        <Display />
+      </ContextPage>
 
     </>
   )

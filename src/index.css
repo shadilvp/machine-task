@@ -1,0 +1,23 @@
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    margin-top: 20px;
+  }
+  
+  .color {
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .output{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  
